@@ -1,0 +1,16 @@
+{
+  "name": "pets",
+  "authors": [
+    {
+      "name": "Joshua Kristiansen",
+      "email": "jkristiansen@mail.greenriver.edu"
+    },
+    {
+      "name": "Taras Gorba",
+      "email": "gorbataras@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
